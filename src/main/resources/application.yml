@@ -1,0 +1,9 @@
+auth:
+  server:
+    clientId: "clientId"
+    clientSecret: "clientSecret"
+    publicKeyUri: "http://localhost:8081/oauth/token/public_key"
+  connection:
+    maxRetries: 3
+    initialBackoff: 50
+    multiplier: 1.2

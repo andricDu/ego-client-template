@@ -1,0 +1,1 @@
+# ego-client-template
